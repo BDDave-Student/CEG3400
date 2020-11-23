@@ -1,0 +1,47 @@
+A conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology is called a ______________________.
+- Interconnection Model
+
+How many layers does the Open Systems Interconnection model have? 
+- 7
+
+How many layers does the Internet Interconnection Model have?
+- 5
+
+_____ is a connection oriented protocol that guarantees the in–order delivery messages across the internet.
+- TCP
+
+Which internet protocol uses a 3 way handshake to establish a "virtual circuit type connection" between source and destination?
+- TCP
+
+Which internet protocol guarantees reliable transfer of data, provides in-order delivery of messages and is all about ports?
+- TCP
+
+Which type of network hardware device acts on behalf of the primary device and intercepts requests from internal "secure" network(s) and processes the request on behalf of the user?
+- Proxy Server
+
+What type of address used in networking is associated with a network interface card of hardware devices?
+- MAC Address
+
+What type of address used in TCP/IP networks is associated with the network interface card of each hardware device on the network? 
+- MAC Address (Media Access Control)
+
+A __________ defines the rules for communication between computers.
+- Protocol:  specific sets of rules that govern how nodes will exchange data.
+
+What internet protocol is connectionless, is all about addresses and includes a Time To Live (TTL) field as part of its packet header?
+- IP
+
+_____ is a stateless (doesn't store information) request/respond protocol.
+- HTTP
+
+____ is considered a network layer protocol for testing and debugging.
+- ICMP
+
+
+Hub networking devices use MAC addresses and Switch networking devices use IP addresses.
+- False
+Hub Network:  Physical Layer 1
+Switch:  Data Link Layer 2, Learn MAC Address
+Router:  Network Layer 3, 
+
+CIDR notation is a syntax of specifying IP addresses and their associated routing prefixes.
