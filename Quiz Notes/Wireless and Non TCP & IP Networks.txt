@@ -1,0 +1,35 @@
+Which of the following is the most common type of wireless network?
+- Infrastructure
+
+In general, CPSs use more modeling and simulation than TCP/IP based systems do.
+
+Driving around looking for wireless local area networks is called ___________.
+- Wardriving
+
+In the context of the CPS lecture, what does CAN stand for?
+- Controller Area Network
+
+CAN bus is the standard communication network for many automobiles manufactured in the United States.
+
+Which of the following complex CPS examples is trying to incorporate its output into an existing distribution system.
+- Smart Grid
+
+Which of the following is a standard network architecture for avionics subsystems in airplanes?
+- 1553
+
+Not broadcasting the SSID for your home router/access point is a good security measure.
+
+Which of the following is not something that can help protect wireless networks 
+- AP Power Blasting
+
+Which wireless security protocol uses the Advanced Encryption Standard?
+- WPA2
+
+What is the defacto standard for wireless security today?
+- WPA2
+
+Which of the following wireless technology standards provides rapid ad-hoc, “on-the-fly” device pairings?
+- Bluetooth
+
+Which of the following was the first attempt to add security to wireless network communications?
+- WEP:  Wired Equivalent Privacy
