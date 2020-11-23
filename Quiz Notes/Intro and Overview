@@ -1,0 +1,90 @@
+Students use SSH, their private key & the elastic IP of the VM to access linux-based VMs in AWS.
+
+Frequent Communication is always important – even more so this semester because of the interesting times we find ourselves in!
+
+What name does AWS give for the public IP address of each virtual machine being used?
+- Elastic/Public IP
+
+What should a student do if they find information from some source other that conflicts with or contradicts information presented in lecture?
+- Identify the conflict/contradict the information to the instructor
+
+What enhanced terminal window for Windows (another version of a command prompt terminal window) are we using for our lab exercises?
+- MobaXTerm
+
+Textbook Info:  Security+ Guide to Network Security Fundamentals, 6th edition
+
+What technology are we using as the virtual environment for our lab exercises?
+- AWS (Amazon Web Services)
+
+For Lab #0, what application are we installing on our personal computers that provides the essential linux commands Windows needs to support remote access to other machines? 
+- WSL (Windows Subsystem for Linux)
+
+Why is lecture material the default athoritative source for course material instead of the textbook?
+- because things change so quickly in cyberspace & cybersecurity that textbooks can't keep up
+
+Students use SSH, their private key & the elastic IP of the VM to access windows-based VMs in AWS
+- Windows based uses Remote Desktop with User/Password configurations
+
+What does the C in CyberTACO mean or stand for?
+- T:  Threat - large threat space
+- A:  Access - attack surface
+- C:  Change - environment changing constantly and quickly
+- O:  Ops Cycle - things happen faster than the human decision cycle
+
+Advanced Persistent Threats are the most dangerous type of attacker because they usually targets organizations or nations for business or political motives, use highly sophisticated techniques to exploit systems and aggressively work to stay undetected inside systems they gain access too.
+
+In class we defined a vulnerability as a venn diagram consisting of 3 elements.  Which of the following is not one of the 3 required elements?
+- Vulnerability = Threat Susceptibility + Threat Accessibility + Threat Capability
+
+There are two popular and opposing viewpoints regarding when the technological singularity will occur.  The person that believes it will happen in our lifetime (around 2045) is?
+- Ray Kurzweil
+
+Match each of the "other" security concepts, presented in class, with its definition.
+- Accounting:  Tracking of events
+- Anonymity:  the property that certain records or transactions not to be attributable to any individual
+- Assurance:  how trust is provided and managed in computer systems
+- Authentication:  ensures an entity (person or NPE) is who they claim to be and not an imposter
+- Authenticity:  the ability to determine that statements, policies, and permissions issued by persons or systems are genuine and can’t be repudiated (can’t be denied)
+- Authorization:  providing permission or approval for an entity to access/use specific technology resource(s)
+
+Intelligence and data gathering (aka reconnaissance) is the least important task in the "anatomy" of an attack process.  
+- False
+
+Which of the following is the degree to which authorized users can access information for legitimate purposes?
+- Availability
+
+The cyber TACO characteristics of cyberspace create some of the biggest challenges to risk management in today's world.
+- True
+
+Integrity is ensuring that data can be modified only by appropriate mechanisms.
+- False
+
+Which of the following ensures that data can be modified only by appropriate mechanisms?
+- Integrity
+
+CIA Triad for Security Goals
+C:  Confidentiality:  Data is protected, providing access for authorized users, and disallowing access for unauthorized
+I:  Integrity:  Information has not been altered in an unauthorized way
+A:  Availability:  Information is accessible and modifiable in a timely fashion by those authorized to do so
+
+Ten Security Principles:
+Economy of Mechanism:  Simplicity in design and implementation (KISS)
+Fail-Safe Defaults:  default config of a system should have a conservative protection scheme
+Complete Mediation:  checked for compliance with a protection scheme
+Open Design:  Security architecture and design of a system should be made publicly available
+Seperation of Privilege
+Least Privilege
+Least Common Mechanism:  Resources shared by more than one user should be minimized
+Psychological Acceptability:  UI should be well designed and intuitive
+Work Factor:  Cost of circumventing
+Compromise Recording
+
+5 fundamental defensive security principles
+Layering
+Limiting
+Diversity
+Obscurity
+Simplicity
+
+One of the biggest challenges we have with trying to make cyberspace a better environment to use is figuring out how to deal with its size and complexity. 
+- True
