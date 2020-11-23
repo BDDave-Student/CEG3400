@@ -1,0 +1,54 @@
+Physical Security Goals:
+- deter potential intruders
+- detect intrusions and monitor/record intruders
+- distinguish authorized from unauthorized people
+- delay, frustrate and ideally prevent intrusion at
+
+IDS/IPS Systems:
+- IDSs/IPSs can analyze more and different types of data than firewalls 
+- firewalls must be faster than IDSs/IPSs
+- packet level firewalls only inspect packet headers whereas IDSs/IPSs can inpsect packet payloads
+- Application level firewalls are much more similar to IDSs/IPSs than packet level firewalls.
+
+An error in thinking where the mind tends to ignore the base rate/general information and focus on the specific information is call the __________.
+- Base Rate Fallacy
+
+What do we call rooms lined with metallic conductive shielding, or a mesh of such material, that prevent signals from emanating outside of the room? 
+- Faraday Cages
+
+Type of Intrusion Detection System
+- Rule Based Intrusion Detection: uses signatures to detect malicious software
+- Heuristic Based Intrusion Detection:  experience-based techniques
+- Statistical Based Intrustion Detection:   builds a profile of normal and uses it to detect anomalous events or software
+
+Which of the following is a reason physical security is receiving renewed emphasis in today's digital computing environment?
+- None of the above
+
+What is the U.S. government code word for a set of standards for limiting information-carrying electromagnetic emanations from computing equipment?
+- TEMPEST
+
+Performing host software baselining is intended to reduce the number of potential vulnerabilities in an organization's installed software base. 
+
+When performing the initial installation of a software package, the supplied defaults should always be used.
+- False
+
+DLP systems examine data in one of several states:
+	- Data-in-use
+	- Data-in-transit
+	- Data-at-rest
+
+Which firewall policy is most likely to be used within the trusted intranet of an organization?
+- Blacklist; Default: Allow
+
+Which statement about a mantrap is true?
+- It monitors and controls two interlocking doors to a room.
+
+An internetwork gateway that restricts data communication traffic and thus protects "inside" network system resources against threats from threats on "outside" networks is called a _______________.
+- Firewall
+
+Which type of Intrusion Detection System (IDS) is installed on each system needing protection?
+- Host IDS
+
+Off site redundancy and backup is one of the most effective mitigations for natural threats to physical resources.
+
+
