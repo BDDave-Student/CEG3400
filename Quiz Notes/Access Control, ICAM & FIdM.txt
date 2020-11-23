@@ -1,0 +1,42 @@
+Four major access control models
+- Discretionary Access Control (DAC):  Least Restrictive
+- Mandatory Access Control (MAC):  Most Restrictive; Centrally Controlled
+- Role Based Access Control (RBAC):  Multi-User, Multi-Application Systems; supports security principles such as least privilege, separation of duties and data abstraction
+- Rule Based Access Control (RBAC) 
+	or Attribute Based Access Control(ABAC)
+
+Users being able to log in once and have access to everything is the concept behind Single Sign On (SSO).
+
+Which of the following is used to ensure that information provided through a web form has been filled in by a person?
+- Captcha Software
+
+Federated Identity Management (FiDM) capabilites were created to help bring organization and standardization to ICAM.
+
+Biba is a security control model designed to address issues involving unauthorized writing (changing) of data.  Biba deals with integrity.
+
+A dedicated server that performs authentication, authorization, and accounting is called a AAA server. 
+
+Which access control model originated in Multi-Level Secure (aka Orange Book) government systems?
+- Mandatory
+
+Which of the following is a decentralized open source, URL-based FiDM system that does not require specific software to be installed on the desktop?
+- OpenID
+
+The purpose of _______ is to ensure proper identity verification is made when an individual or NPE attempts to access a security sensitive resource.
+- Access Management
+
+Authentication does not verify that the identity proofing is correct. It establishes that the previously  identified person is the same one who is seeking access to a resource.
+
+What is the primary authentication capability still used today?
+- Passwords
+
+Identity, Credential, and Access Management (ICAM) was developed by the U.S. government and is designed to create trusted digital identity representations of  individuals and nonperson entities (NPEs).
+
+Granting or denying approval to use specific resources is the definition of __________.
+- Access Control
+
+Verifying that a subject is associated with some form of identification is called _____?
+- Authentication
+
+A group of organizations running IdPs and SPs that agree on a common set of rules and standards is called a ______________.
+- Federation
