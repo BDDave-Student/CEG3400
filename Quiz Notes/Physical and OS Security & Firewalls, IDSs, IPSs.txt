@@ -9,6 +9,8 @@ IDS/IPS Systems:
 - firewalls must be faster than IDSs/IPSs
 - packet level firewalls only inspect packet headers whereas IDSs/IPSs can inpsect packet payloads
 - Application level firewalls are much more similar to IDSs/IPSs than packet level firewalls.
+- HIDS:  Host Instrusion Detection System
+- NIDS:  Network Intrusion Detection System
 
 Type of Intrusion Detection System
 - Rule Based Intrusion Detection: uses signatures to detect malicious software
