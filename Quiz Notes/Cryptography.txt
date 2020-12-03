@@ -14,6 +14,13 @@ Requirements for Public-Key:
 5) Computationally infeasible for attacker to determine private key from public key
 6) Computationally infeasible for attacker to recover original message
 
+Characteristic of a Cryptographic Hash Function:
+Fixed Size: output digest (hash value) is always the same size
+Deterministic: same message always results in same hash
+One-way: easy to compute
+Collision-Resistant: hard to find two messages
+High Fidelity: small change to message should change has value
+
 Which of the following cryptography techniques require two separate keys to encrypt and decrypt messages?
 -  Public-Key Encryption
 
@@ -53,13 +60,6 @@ What is needed to mitigate the biggest weakness/vulnerability of using public/pr
 
 Which of the following is used to guarantee the authenticity of a message?
 - digital signature
-
-Characteristic of a Cryptographic Hash Function:
-Fixed Size: output digest (hash value) is always the same size
-Deterministic: same message always results in same hash
-One-way: easy to compute
-Collision-Resistant: hard to find two messages
-High Fidelity: small change to message should change has value
 
 A __________ is created by using a secure hash function to generate a hash value for a message and then encrypting the hash code with a private key.
 - digital signature
