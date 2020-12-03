@@ -1,0 +1,15 @@
+Risk appetite is the risk needed to achieve strategic objectives.
+Risk tolerance is how comfortable you feel about the risk.
+Risk capacity is how much you can afford with the risk.
+
+Risk Handling:
+- Accept:  Identify and log, no action  
+- Avoid:  Remove all possibility of loss, not realistic
+- Control:  Analyze and learn risks, prepare alternative plans
+- Exploit:  Maximize the chance the risk happens
+- Mitigate:  Limit impact of risk
+- Reduce:  Minimize the chance
+- Share:  Risk Distribution: a self insurance method by spreading the burden of loss
+- Transfer:  Transfer the risk to others (insurance policy)
+
+Cyber Hygiene refers to steps that computer users can take to improve their cybersecurity and better protect themselves & others online. 
