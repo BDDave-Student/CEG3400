@@ -5,6 +5,8 @@ Four major access control models
 - Rule Based Access Control (RBAC) 
 	or Attribute Based Access Control(ABAC)
 
+Identity, Credential, and Access Management (ICAM) was developed by the U.S. government and is designed to create trusted digital identity representations of  individuals and nonperson entities (NPEs).
+
 Users being able to log in once and have access to everything is the concept behind Single Sign On (SSO).
 
 Which of the following is used to ensure that information provided through a web form has been filled in by a person?
@@ -29,8 +31,6 @@ Authentication does not verify that the identity proofing is correct. It establi
 
 What is the primary authentication capability still used today?
 - Passwords
-
-Identity, Credential, and Access Management (ICAM) was developed by the U.S. government and is designed to create trusted digital identity representations of  individuals and nonperson entities (NPEs).
 
 Granting or denying approval to use specific resources is the definition of __________.
 - Access Control
