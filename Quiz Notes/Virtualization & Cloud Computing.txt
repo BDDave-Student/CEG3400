@@ -1,10 +1,24 @@
-When setting up a server virtualization environment, what component below manages the virtual machine operating systems and supports one or more guest systems?
-- Hypervisor
+Cloud Computing Service Models:
+- Software as a Service (SaaS)
+- Platform as a Service (PaaS)
+- Infrastructure as a Service (IaaS)
+- Security as a Service (SECaaS)
 
 A hypervisor is a virtualization manager that can perform:
 - Controls the host processor and resources
 - Allocates what is needed to each operating system
 - Makes sure guest operating systems (called virtual machines) cannot disrupt each other
+
+Essential characteristics of Cloud Computing:
+- measured service
+- broad network access
+- on-demand self service
+- rapid elasticity
+
+Cloud Computing provides Services to Virtualization.
+
+When setting up a server virtualization environment, what component below manages the virtual machine operating systems and supports one or more guest systems?
+- Hypervisor
 
 __________ is used to improve IT throughput and costs by using physical resources as a pool from which virtual resources can be allocated.
 - Virtualization
@@ -20,22 +34,10 @@ Sandboxes and Virtual Machines both use virtualization technologies.
 What is "the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user" called?
 - Cloud Computing
 
-Cloud Computing Service Models:
-- Software as a Service (SaaS)
-- Platform as a Service (PaaS)
-- Infrastructure as a Service (IaaS)
-- Security as a Service (SECaaS)
-
 Which of the three Cloud computing service models allows a customer to access software provided by a vendor using a web browser, without any installation, configuration, upgrading, or management from the user?
 - Cloud SaaS (Software as a Service)
 
 In what type of cloud computing does the customer have the highest level of control?
 - Cloud Infrastructure as a Service (IaaS)
-
-Essential characteristics of Cloud Computing:
-- measured service
-- broad network access
-- on-demand self service
-- rapid elasticity
 
 Everything that happens in a Virtual Machine (VM) stays within the VM.  Therefore -  any downloads, changes, updates, installations ... anything ... created/saved within the VM is only accessible through the VM in some way.
