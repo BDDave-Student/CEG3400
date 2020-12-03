@@ -1,3 +1,23 @@
+Seven Major Categories of Mobile Computing:
+- Portability
+- Miniaturization
+- Connectivity
+- Convergence
+- Divergence
+- Apps
+- Digital Ecosystems
+
+Mobile Security Problems:
+- many devices do not have passwords enables
+- software on many devices is out of date
+- many devices do not use security software
+
+Cookies can:
+- be controlled
+- expire
+- contain any kind of information
+- stored on the user's machine, not web server
+
 Cross Site Scripting and SQL Injections are the 2 biggest exploits hackers use on the Web today.
 
 Which of the following is NOT one of the mobile device security risks discussed in class?
@@ -8,15 +28,6 @@ A capability organizations use to manage company provided mobile devices is call
 
 Mobile computing can be categorized into seven major categories of focus.  Which of the following is NOT one of those seven categories?
 - Persistence
-
-Seven Major Categories of Mobile Computing:
-- Portability
-- Miniaturization
-- Connectivity
-- Convergence
-- Divergence
-- Apps
-- Digital Ecosystems
 
 Which web attack discussed in the lecture has two different types, Reflected and Persistent?
 - Cross Site Scripting
@@ -30,18 +41,7 @@ What is a primary reason why common web application attacks (XSS, SQL injection,
 In the WWW, __________ are small bits of information stored on a computer associated with a specific user.
 - Cookies
 
-Cookies can:
-- be controlled
-- expire
-- contain any kind of information
-- stored on the user's machine, not web server
-
 Wearable technologies are a very nice luxury but consumers need to be very conscientious of the security risks they pose.
-
-Mobile Security Problems:
-- many devices do not have passwords enables
-- software on many devices is out of date
-- many devices do not use security software
 
 Which web attack discussed in the lecture are used by an attacker to make a target system perform a function via the target's browser without knowledge of the target user?
 - Cross Site Request Forgery
