@@ -1,3 +1,5 @@
+Real world physical changes/Kinetic Effect when Non-TCP/IP devices are attacked.
+
 Which of the following is the most common type of wireless network?
 - Infrastructure
 
