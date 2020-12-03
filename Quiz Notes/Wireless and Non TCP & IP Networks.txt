@@ -15,7 +15,7 @@ Which of the following complex CPS examples is trying to incorporate its output 
 - Smart Grid
 
 Which of the following is a standard network architecture for avionics subsystems in airplanes?
-- 1553
+- Mil Std 1553
 
 Not broadcasting the SSID for your home router/access point is a good security measure.
 
