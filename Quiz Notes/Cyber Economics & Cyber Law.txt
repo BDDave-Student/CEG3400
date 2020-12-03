@@ -1,0 +1,51 @@
+- The "forces at play" in cybersecurity market fundamentals  
+  1.Cyber Security is more than IT – it is a complex and competing mix of technology, processes, and personnel  
+  2.Availability trumps confidentiality and data integrity – time to market & global economies of scale overtake security  
+  3.You can’t fix what you can’t measure – quantitative metrics needed to guide cybersecurity cost/benefit trade space  
+  
+According to Mr. Hughes's lecture, the following is a method to estimate an adversary's work factor:
+- Penetration Testing
+- Information Markets
+- Hueristics
+- Reverse Engineering
+- Cryptographic Methods
+
+The components of "A Quantitative Framework to Capture the "Time is Money" Trade Space":  
+- Characterizing the Threat  
+- Addressing a Threat’s Time-to-Compromise  
+- Threat Driven Metrics: Compute Defender versus Adversary Work Factor, the goal of risk mitigation 
+
+According to Mr. Hughes' lecture, once you can estimate time, the economic analysis is straightforward.
+
+According to Mr. Hughes' lecture, the goal of risk mitigation is to decrease the defender's time to build/maintain/recover and increase the adversary's time to break.
+
+According to Mr. Hughes, security is a tradespace, a balancing act between access (availability) and security (confidentiality).  What does Mr. Hughes say drives or determines the balancing point? 
+- Organizational Mission
+
+Cyber Law:
+In the United States we protect data based on the type of data it is and on the origin of the data.
+
+Data Privacy/Protection Acts:
+- Fair Credit Reporting Act (FCRA) - different types of data brokers have different obligations for protecting data  
+- Health Insurance Portability & Accountability Act (HIPAA) - medical  
+- Gramm Leach Bliley Act (GLBA) - financial data  
+- Family Educational Rights and Privacy Act (FERPA) - protects student information and education record and grades  
+- Children Online Privacy Protection Act (COPPA)  
+
+Based on the use case example Mr. Heck explained during the first part of his lecture it is easier to understand why it is so difficult and expensive for companies to properly handle and recover from data breaches. 
+- True
+
+Why is it important for cybersecurity professionals to have a basic understanding of  data privacy and protection laws?
+- awareness to recognize potential issues regarding improper protection of data and get correct professional help to address the issues 
+
+According to Mr. Heck, one of the biggest decisions the victim of a data breach has to make is whether or not they have to notify clients that a breach has occurred AND when the notification should take place, if in fact notification is required.
+
+According to Mr. Heck, the law and morality are almost always mutually exclusive.
+
+According to Ohio law, how many days from discovery of a data breach does the victim of the breach have to notify clients?
+- 60 from lecture, 45 from Ohio Law
+
+If  data was stolen during an unauthorized access situation (whether the data was encrypted or plain text), according to Ohio Law a breach has occurred. 
+- False; Encrypted Data is not a breach
+
+
