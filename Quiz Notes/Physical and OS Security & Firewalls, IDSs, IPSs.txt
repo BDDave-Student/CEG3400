@@ -10,16 +10,21 @@ IDS/IPS Systems:
 - packet level firewalls only inspect packet headers whereas IDSs/IPSs can inpsect packet payloads
 - Application level firewalls are much more similar to IDSs/IPSs than packet level firewalls.
 
+Type of Intrusion Detection System
+- Rule Based Intrusion Detection: uses signatures to detect malicious software
+- Heuristic Based Intrusion Detection:  experience-based techniques
+- Statistical Based Intrustion Detection:   builds a profile of normal and uses it to detect anomalous events or software
+
+DLP systems examine data in one of several states:
+	- Data-in-use
+	- Data-in-transit
+	- Data-at-rest
+	
 An error in thinking where the mind tends to ignore the base rate/general information and focus on the specific information is call the __________.
 - Base Rate Fallacy
 
 What do we call rooms lined with metallic conductive shielding, or a mesh of such material, that prevent signals from emanating outside of the room? 
 - Faraday Cages
-
-Type of Intrusion Detection System
-- Rule Based Intrusion Detection: uses signatures to detect malicious software
-- Heuristic Based Intrusion Detection:  experience-based techniques
-- Statistical Based Intrustion Detection:   builds a profile of normal and uses it to detect anomalous events or software
 
 Which of the following is a reason physical security is receiving renewed emphasis in today's digital computing environment?
 - None of the above
@@ -31,11 +36,6 @@ Performing host software baselining is intended to reduce the number of potentia
 
 When performing the initial installation of a software package, the supplied defaults should always be used.
 - False
-
-DLP systems examine data in one of several states:
-	- Data-in-use
-	- Data-in-transit
-	- Data-at-rest
 
 Which firewall policy is most likely to be used within the trusted intranet of an organization?
 - Blacklist; Default: Allow
@@ -50,5 +50,3 @@ Which type of Intrusion Detection System (IDS) is installed on each system needi
 - Host IDS
 
 Off site redundancy and backup is one of the most effective mitigations for natural threats to physical resources.
-
-
