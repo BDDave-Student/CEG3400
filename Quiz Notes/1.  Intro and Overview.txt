@@ -81,7 +81,7 @@ The cyber TACO characteristics of cyberspace create some of the biggest challeng
 - True
 
 Integrity is ensuring that data can be modified only by appropriate mechanisms.
-- False
+- True
 
 Which of the following ensures that data can be modified only by appropriate mechanisms?
 - Integrity
